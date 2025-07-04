@@ -3,6 +3,7 @@
 
 static const Block blocks[] = {
 	/*Command*/	/*Update Interval*/	/*Update Signal*/
+	{ "status-recording",   0,	    13},
 	{ "status-locale",      0,	     9},
 	{ "status-backlight",   0,	     8},
 	{ "status-volume",      0,	     1},
